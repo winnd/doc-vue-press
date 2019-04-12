@@ -1,0 +1,13 @@
+
+
+如果你想要链接到另一个 markdown 文件：
+确保链接以 .html 或 .md 结尾；
+
+
+[Home](/) <!-- 跳转到根部的 README.md -->
+[foo](/foo/) <!-- 跳转到 foo 文件夹的 index.html -->
+[foo heading anchor](/foo/#heading) <!-- 跳转到 foo/index.html 的特定 anchor 位置 -->
+[foo - one](/foo/one.html) <!-- 具体文件可以使用 .html 结尾 -->
+[foo - two](/foo/two.md) <!-- 也可以用 .md -->
+
+
